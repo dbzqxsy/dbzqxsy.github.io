@@ -11,15 +11,15 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2024/11/20/test/</url>
-    <content><![CDATA[<p>hello world</p>
+    <title>hello</title>
+    <url>/2024/11/24/hello/</url>
+    <content><![CDATA[<h2 id="Hello！"><a href="#Hello！" class="headerlink" title="Hello！"></a>Hello！</h2><p>一.时隔两周,终于做好了这个简略版。有一个很想用的主题,但是每次到最后一步时都会出现错误,最后呈现的这个主题大概是网上知名度较高的了，fluid，感觉也是很好看的嘿嘿。<br>二.遇到的问题:<br>在终端输入hexo d时经常在最后出现错误<img src="/image.png" alt="alt text">。这张图在网上找的，由于我最后一次成功了，所以出现的错误无法实时截图了。<br>三.关于右下角的人物，这个是由于我一开始把界面搞得好看一点，所以在网上搜索了一些美化方案，不过几乎都没有实现，这个人物形象也是今天打开时才发现的，我也不知道是怎么成功的。。。(ps:我发现点击右下角人物她会说话……..可能是日语吧，听不懂，希望有好心人解答，感谢)呃…怎么感觉跟这个人物跟我的主题不怎么搭呢<br>(&gt; &lt;);</p>
 ]]></content>
   </entry>
   <entry>
-    <title>hello</title>
-    <url>/2024/11/24/hello/</url>
-    <content><![CDATA[<p>一.时隔两周,终于做好了这个简略版。有一个很想用的主题,但是每次到最后一步时都会出现错误,最后呈现的这个主题大概是网上知名度较高的了，fluid，感觉也是很好看的嘿嘿。<br>二.遇到的问题:<br>在终端输入hexo d时经常在最后出现错误<img src="/image.png" alt="alt text">。这张图在网上找的，由于我最后一次成功了，所以出现的错误无法实时截图了。<br>三.关于右下角的人物，这个是由于我一开始把界面搞得好看一点，所以在网上搜索了一些美化方案，不过几乎都没有实现，这个人物形象也是今天打开时才发现的，我也不知道是怎么成功的。。。(ps:我发现点击右下角人物她会说话……..可能是日语吧，听不懂，希望有好心人解答，感谢)呃…怎么感觉跟这个人物跟我的主题不怎么搭呢<br>(&gt; &lt;);</p>
+    <title>test</title>
+    <url>/2024/11/20/test/</url>
+    <content><![CDATA[<p>hello world</p>
 ]]></content>
   </entry>
 </search>
