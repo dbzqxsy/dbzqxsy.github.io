@@ -12,4 +12,16 @@
     <content><![CDATA[<h3 id="第一篇来啦"><a href="#第一篇来啦" class="headerlink" title="第一篇来啦~~~"></a>第一篇来啦~~~</h3><p>虽迟但到</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>two</title>
+    <url>/2024/12/05/two/</url>
+    <content><![CDATA[<p>##刷题记录</p>
+<blockquote>
+<p>下面所有题目均来自<a href="https://adworld.xctf.org.cn/challenges/list">https://adworld.xctf.org.cn/challenges/list</a></p>
+</blockquote>
+<p>1.Banmabanma (misc)<br>![题目](Screenshot 2024-12-05 182359.png)<br>解答:使用网站<a href="https://online-barcode-reader.inliteresearch.com/">https://online-barcode-reader.inliteresearch.com/</a><br>选择图片文件之后,read,得到flag.<br>flag{TENSHINE}</p>
+<p>2.心仪的公司(misc)<br>利用Wireshark,找到flag<br>fl4g:{ftop_Is_Waiting_4_y}</p>
+<p>3.Test-flag-please-ignore (misc)<br>下载文件,解压后打开,得到666c61677b68656c6c6f5f776f726c647d<br> 使用网站<a href="https://www.convertstring.com/EncodeDecode/HexDecode?spm=5176.28103460.0.0.395f5d27k6jnWI">https://www.convertstring.com/EncodeDecode/HexDecode?spm=5176.28103460.0.0.395f5d27k6jnWI</a><br> 得到flag{hello_world}</p>
+]]></content>
+  </entry>
 </search>
